@@ -1,23 +1,10 @@
 {
   "posts": [
 	{
-		"body": "Eos culpa et voluptatem.",
-		"cover": "https://picsum.photos/seed/50145/1920/270",
-		"createdAt": "2020-05-06T11:47:45Z",
-		"id": 1,
-		"isDraft": true,
-		"tag": "one",
-		"title": "corrupti ducimus"
-	},
-	{
-		"body": "Illo saepe consequuntur a libero deserunt a eos, perferendis sint, accusantium qui dolorum sed at.",
-		"cover": "https://picsum.photos/seed/49534/1920/270",
-		"createdAt": "2013-05-26T13:06:35Z",
-		"id": 2,
-		"isDraft": true,
-		"tag": "one",
-		"title": "repellendus"
-	}
+      "id": 1,
+      "title": "hello",
+      "body": "Muhammad Kasim, Ini percobaan json server"
+    }
 ],
   "profile": {
     "name": "typicode"

@@ -1,10 +1,15 @@
 {
   "posts": [
-	{
+    {
       "id": 1,
       "title": "hello",
       "body": "Muhammad Kasim, Ini percobaan json server"
-    }
+    },
+    {
+      "id": 2,
+      "title": "Ini file kedua",
+      "body": "Json Server, Ini percobaan json server"
+    }  
 ],
   "profile": {
     "name": "typicode"
